@@ -1,52 +1,52 @@
 - [待添加中文翻译 - UI Design Basics]
- - [待添加中文翻译 - Designing for iOS](designing-for-ios.md)
- - [待添加中文翻译 - iOS App Anatomy](ios-app-anatomy.md)
- - [待添加中文翻译 - Adaptivity and Layout](adaptivity-and-layout.md)
- - [待添加中文翻译 - Starting and Stopping](starting-and-stopping.md)
- - [待添加中文翻译 - Navigation](navigation.md)
- - [待添加中文翻译 - Modal Contexts](modal-contexts.md)
- - [待添加中文翻译 - Interactivity and Feedback](interactivity-and-feedback.md)
- - [待添加中文翻译 - Animation](animation.md)
- - [待添加中文翻译 - Branding](branding.md)
- - [待添加中文翻译 - Color and Typography](color-and-typography.md)
- - [待添加中文翻译 - Icons and Graphics](icons-and-graphics.md)
- - [待添加中文翻译 - Terminology and Wording](terminology-and-wording.md)
- - [待添加中文翻译 - Integrating with iOS](integrating-with-ios.md)
+ - [待添加中文翻译 - Designing for iOS](designing-for-ios.md) zqvan
+ - [待添加中文翻译 - iOS App Anatomy](ios-app-anatomy.md) liurui
+ - [待添加中文翻译 - Adaptivity and Layout](adaptivity-and-layout.md) zhenglu
+ - [待添加中文翻译 - Starting and Stopping](starting-and-stopping.md) zhenglu
+ - [待添加中文翻译 - Navigation](navigation.md) zhenglu
+ - [待添加中文翻译 - Modal Contexts](modal-contexts.md) zhenglu
+ - [待添加中文翻译 - Interactivity and Feedback](interactivity-and-feedback.md) zhenglu
+ - [待添加中文翻译 - Animation](animation.md) lily
+ - [待添加中文翻译 - Branding](branding.md)lily
+ - [待添加中文翻译 - Color and Typography](color-and-typography.md)lily
+ - [待添加中文翻译 - Icons and Graphics](icons-and-graphics.md)lily
+ - [待添加中文翻译 - Terminology and Wording](terminology-and-wording.md)lily
+ - [待添加中文翻译 - Integrating with iOS](integrating-with-ios.md)lily
 - 待添加中文翻译 - Design Strategies
- - [待添加中文翻译 - Design Principles](design-principles.md)
- - [待添加中文翻译 - From Concept to Product](from-concept-to-product.md)
- - [待添加中文翻译 - Case Study: From Desktop to iOS](from-desktop-to-ios.md)
+ - [待添加中文翻译 - Design Principles](design-principles.md) zqvan
+ - [待添加中文翻译 - From Concept to Product](from-concept-to-product.md) zqvan
+ - [待添加中文翻译 - Case Study: From Desktop to iOS](from-desktop-to-ios.md) zqvan
 - 待添加中文翻译 - iOS Technologies
- - [待添加中文翻译 - App Extensions](extensions.md)
- - [待添加中文翻译 - Notifications](notifications.md)
- - [待添加中文翻译 - Multitasking](multitasking.md)
- - [待添加中文翻译 - Social Media](social-media.md)
- - [待添加中文翻译 - iCloud](icloud.md)
- - [待添加中文翻译 - HealthKit](healthkit.md)
- - [待添加中文翻译 - Passbook](passbook.md)
- - [待添加中文翻译 - Apple Pay](apple-pay.md)
- - [待添加中文翻译 - In-App Purchase](in-app-purchase.md)
- - [待添加中文翻译 - Game Center](game-center.md)
- - [待添加中文翻译 - iAd Rich Media Ads](iad-rich-media-ads.md)
- - [待添加中文翻译 - AirPrint](airprint.md)
- - [待添加中文翻译 - Accessing User Data](accessing-user-data.md)
- - [待添加中文翻译 - Quick Look](quick-look.md)
- - [待添加中文翻译 - Sound](sound.md)
- - [待添加中文翻译 - VoiceOver](voiceover.md)
- - [待添加中文翻译 - Routing](routing.md)
- - [待添加中文翻译 - Edit Menu](edit-menu.md)
- - [待添加中文翻译 - Undo and Redo](undo-and-redo.md)
- - [待添加中文翻译 - Keyboards and Input Views](keyboards-and-input-views.md)
+ - [待添加中文翻译 - App Extensions](extensions.md)lily
+ - [待添加中文翻译 - Notifications](notifications.md)lily
+ - [待添加中文翻译 - Multitasking](multitasking.md)lily
+ - [待添加中文翻译 - Social Media](social-media.md) zhenglu
+ - [待添加中文翻译 - iCloud](icloud.md) zhenglu
+ - [待添加中文翻译 - HealthKit](healthkit.md) zhenglu
+ - [待添加中文翻译 - Passbook](passbook.md) zhenglu
+ - [待添加中文翻译 - Apple Pay](apple-pay.md) liurui
+ - [待添加中文翻译 - In-App Purchase](in-app-purchase.md) zhenglu
+ - [待添加中文翻译 - Game Center](game-center.md) zhenglu
+ - [待添加中文翻译 - iAd Rich Media Ads](iad-rich-media-ads.md) hanbing
+ - [待添加中文翻译 - AirPrint](airprint.md) zhenglu
+ - [待添加中文翻译 - Accessing User Data](accessing-user-data.md) hanbing
+ - [待添加中文翻译 - Quick Look](quick-look.md) hanbing
+ - [待添加中文翻译 - Sound](sound.md) hanbing
+ - [待添加中文翻译 - VoiceOver](voiceover.md) hanbing
+ - [待添加中文翻译 - Routing](routing.md) hanbing
+ - [待添加中文翻译 - Edit Menu](edit-menu.md) hanbing
+ - [待添加中文翻译 - Undo and Redo](undo-and-redo.md) hanbing
+ - [待添加中文翻译 - Keyboards and Input Views](keyboards-and-input-views.md) hanbing
 - 待添加中文翻译 - UI Elements
- - [待添加中文翻译 - Bars](bars.md)
- - [待添加中文翻译 - Content Views](content-views.md)
- - [待添加中文翻译 - Controls](controls.md)
- - [待添加中文翻译 - Temporary Views](temporary-views.md) 
+ - [待添加中文翻译 - Bars](bars.md)liurui
+ - [待添加中文翻译 - Content Views](content-views.md) xinghao
+ - [待添加中文翻译 - Controls](controls.md) xinghao
+ - [待添加中文翻译 - Temporary Views](temporary-views.md) liurui
 - 待添加中文翻译 - Icon and Image Design
- - [待添加中文翻译 - Icon and Image Sizes](icon-and-image-sizes.md)
- - [待添加中文翻译 - App Icon](app-icon.md)
- - [待添加中文翻译 - Launch Images](launch-images.md)
- - [待添加中文翻译 - Bar Button Icons](bar-button-icons.md)
- - [待添加中文翻译 - Newsstand Icons](newsstand-icons.md)
- - [待添加中文翻译 - Web Clip Icons](web-clip-icons.md)
- - [待添加中文翻译 - Creating Resizable Images](creating-resizable-images.md)
+ - [待添加中文翻译 - Icon and Image Sizes](icon-and-image-sizes.md) zqvan
+ - [待添加中文翻译 - App Icon](app-icon.md) zqvan
+ - [待添加中文翻译 - Launch Images](launch-images.md) zqvan
+ - [待添加中文翻译 - Bar Button Icons](bar-button-icons.md) zqvan
+ - [待添加中文翻译 - Newsstand Icons](newsstand-icons.md) zqvan
+ - [待添加中文翻译 - Web Clip Icons](web-clip-icons.md) zqvan
+ - [待添加中文翻译 - Creating Resizable Images](creating-resizable-images.md) zqvan
