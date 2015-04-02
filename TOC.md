@@ -1,6 +1,6 @@
 - [待添加中文翻译 - UI Design Basics]
  - [待添加中文翻译 - Designing for iOS](designing-for-ios.md) zqvan
- - [待添加中文翻译 - iOS App Anatomy](ios-app-anatomy.md) xinghao
+ - [待添加中文翻译 - iOS App Anatomy](ios-app-anatomy.md) liurui
  - [待添加中文翻译 - Adaptivity and Layout](adaptivity-and-layout.md) zhenglu
  - [待添加中文翻译 - Starting and Stopping](starting-and-stopping.md) zhenglu
  - [待添加中文翻译 - Navigation](navigation.md) zhenglu
